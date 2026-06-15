@@ -19,8 +19,8 @@
   "theme_color": "#2D1B4E",
   "background_color": "#1A0D2E",
   "display": "standalone",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "/anxiety-personality-quiz/",
+  "scope": "/anxiety-personality-quiz/",
   "orientation": "portrait",
   "lang": "en-US",
   "categories": ["health", "lifestyle", "education"]
